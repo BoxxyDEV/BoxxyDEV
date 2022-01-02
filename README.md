@@ -1,5 +1,7 @@
-- 👋 Hi, I’m @BoxxyDEV
-- 👀 I’m interested in Game Modifications
-- 📫 How to reach me My Twitter/TikTok/Instagram is @BoxxyMC and my Twitch is tvboxxy and my youtube channel is BoxxyTV
-
-
+```
+BoxxyDEV@github:~$ ./boxxy-program
+```
+```
+Instrested in Computers and modding
+I know abit of JavaScript/C#/C++/C/HTML/CSS
+```
