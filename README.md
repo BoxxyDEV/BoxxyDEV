@@ -8,5 +8,4 @@ Twitter > @RealBoxugah
 TikTok > @RealBoxugah
 YouTube > Boxuga
 Twitch > Boxuga
-Instagram > Boxuga
 ```
